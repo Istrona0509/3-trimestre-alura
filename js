@@ -20,6 +20,19 @@ criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
+
+)
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+
+)
+criaCartao(
+    'Geografia',
+    'Qual a capital da Itália?',
+    'A capital da Itália é Roma'
+
 )
 
 function criaCartao(categoria, pergunta, resposta) {
@@ -51,3 +64,6 @@ function criaCartao(categoria, pergunta, resposta) {
     container.appendChild(cartao)
 
 }
+
+
+
