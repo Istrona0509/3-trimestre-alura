@@ -1,14 +1,14 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #7ac6b3;
+    --card-front-color:#224f3e;
+    --card-back-color:#080808;
 }
 
 body {
-    background: url('https://i.im.ge/2024/09/20/kM0q6L.bg-desktop.png');
-    font-family: Bai Jamjuree;
-}
+    background: url('https://i.im.ge/2024/10/03/kU1Yux.fundo-verde-grunge-vintage-36662-983.png');
+font-family: 'Source Code Pro', monospace;
 
+  
 #container {
     display: flex; 
     flex-wrap: wrap;
